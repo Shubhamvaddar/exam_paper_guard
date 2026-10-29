@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*private*.pem
+*_private.pem
+faculty_keys/faculty_private.pem
+coordinator_keys/coord_private.pem
+*.key
+RECOVERED_*.txt
+*.tmp
+temp_out.encpkg
