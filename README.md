@@ -357,10 +357,3 @@ Check the program's output, trusted-key configuration, connection settings, and 
 - Use the tamper-testing option only in an authorized environment.
 - Test the complete workflow with non-sensitive sample files before transferring real examination papers.
 
-## Contributing
-
-Suggestions, bug reports, and improvements are welcome. Please open an issue or submit a pull request describing the proposed change.
-
-## License
-
-Add a license file if you intend to publish the project under an open-source license.
